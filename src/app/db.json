@@ -1,0 +1,40 @@
+{
+  "data":[
+  {
+      "id":1,
+      "name":"product1",
+      "image":"https://m.media-amazon.com/images/I/811lrGbXwIL._AC_UL320_.jpg",
+      "price":1
+  },
+  {
+      "id":2,
+      "name":"product2",
+      "image":"https://m.media-amazon.com/images/I/61T8B4U6Z8L._AC_UL320_.jpg",
+      "price":2
+  },
+  {
+      "id":3,
+      "name":"product3",
+      "image":"https://m.media-amazon.com/images/I/71WPKOJBJIL._AC_UL320_.jpg",
+      "price":3
+  }
+  ]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
